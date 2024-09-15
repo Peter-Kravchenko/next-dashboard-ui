@@ -1,9 +1,7 @@
-type Props = {}
+type Props = {};
 
 const StudentPage = (props: Props) => {
-  return (
-    <div>StudentPage</div>
-  )
-}
+  return <div>StudentPage //1-23-14</div>;
+};
 
 export default StudentPage;
